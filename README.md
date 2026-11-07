@@ -2,9 +2,6 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abolmute&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="abolmute's GitHub Stats" width="49%" />
