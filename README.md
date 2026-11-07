@@ -4,7 +4,6 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abolmute&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="abolmute's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=abolmute&theme=nightowl&hide_border=true&cache_seconds=86400" alt="abolmute's GitHub Streak" width="49%" />
 </p>
 
